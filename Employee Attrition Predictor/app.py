@@ -27,3 +27,4 @@ if st.button("Predict"):
 
     prediction = model.predict(input_data)[0]
     st.write("Prediction:", "❌ Likely to Leave" if prediction == 1 else "✅ Likely to Stay")
+# Your Streamlit code here...
