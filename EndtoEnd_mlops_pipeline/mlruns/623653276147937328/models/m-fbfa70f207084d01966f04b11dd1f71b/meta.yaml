@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Keert/Real-World-Data-Science-ML-DL-projects/EndtoEnd_mlops_pipeline/mlruns/623653276147937328/models/m-fbfa70f207084d01966f04b11dd1f71b/artifacts
+creation_timestamp: 1753781153871
+experiment_id: '623653276147937328'
+last_updated_timestamp: 1753781168657
+model_id: m-fbfa70f207084d01966f04b11dd1f71b
+model_type: null
+name: model
+source_run_id: 056c866aaeea4f85878e24a55f006de0
+status: 2
+status_message: null

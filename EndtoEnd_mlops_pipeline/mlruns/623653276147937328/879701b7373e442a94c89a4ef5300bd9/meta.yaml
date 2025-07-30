@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Keert/Real-World-Data-Science-ML-DL-projects/EndtoEnd_mlops_pipeline/mlruns/623653276147937328/879701b7373e442a94c89a4ef5300bd9/artifacts
+end_time: 1753781433200
+entry_point_name: ''
+experiment_id: '623653276147937328'
+lifecycle_stage: active
+run_id: 879701b7373e442a94c89a4ef5300bd9
+run_name: dashing-snipe-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753781424219
+status: 3
+tags: []
+user_id: Keert

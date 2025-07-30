@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Keert/Real-World-Data-Science-ML-DL-projects/EndtoEnd_mlops_pipeline/mlruns/623653276147937328/models/m-c8d3c982943344d1b668b6454657d04b/artifacts
+creation_timestamp: 1753781424324
+experiment_id: '623653276147937328'
+last_updated_timestamp: 1753781433188
+model_id: m-c8d3c982943344d1b668b6454657d04b
+model_type: null
+name: iris_classifier_model
+source_run_id: 879701b7373e442a94c89a4ef5300bd9
+status: 2
+status_message: null

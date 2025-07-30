@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Keert/Real-World-Data-Science-ML-DL-projects/EndtoEnd_mlops_pipeline/mlruns/623653276147937328/315ddcc7bf264017b5c255bcd42bff8b/artifacts
+end_time: 1753781313859
+entry_point_name: ''
+experiment_id: '623653276147937328'
+lifecycle_stage: active
+run_id: 315ddcc7bf264017b5c255bcd42bff8b
+run_name: spiffy-bass-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753781305408
+status: 3
+tags: []
+user_id: Keert

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Keert/Real-World-Data-Science-ML-DL-projects/EndtoEnd_mlops_pipeline/mlruns/623653276147937328/056c866aaeea4f85878e24a55f006de0/artifacts
+end_time: 1753781168674
+entry_point_name: ''
+experiment_id: '623653276147937328'
+lifecycle_stage: active
+run_id: 056c866aaeea4f85878e24a55f006de0
+run_name: masked-bear-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753781153706
+status: 3
+tags: []
+user_id: Keert

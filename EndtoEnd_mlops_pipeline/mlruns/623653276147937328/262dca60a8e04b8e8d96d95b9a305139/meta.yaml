@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Keert/Real-World-Data-Science-ML-DL-projects/EndtoEnd_mlops_pipeline/mlruns/623653276147937328/262dca60a8e04b8e8d96d95b9a305139/artifacts
+end_time: 1753782436247
+entry_point_name: ''
+experiment_id: '623653276147937328'
+lifecycle_stage: active
+run_id: 262dca60a8e04b8e8d96d95b9a305139
+run_name: IrisClassification_KNNeighborClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753782426444
+status: 3
+tags: []
+user_id: Keert
